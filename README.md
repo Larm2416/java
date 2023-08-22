@@ -11,8 +11,11 @@
  
 
 ## Actividad 2
-- Programa 3
-- programa 4
+- _p05_OperacionesMatematicas
+- _p06_PromedioCalificaciones
+- _p07_OperadoresAsignacion
+- _p08_FuncionesTrigonometricas
+- _p09_DividirEnCifras
 
 ## ACtividad 3
 - programa 5
