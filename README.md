@@ -17,7 +17,10 @@
 - _p08_FuncionesTrigonometricas
 - _p09_DividirEnCifras
 
-## ACtividad 3
-- programa 5
-- programa 6 
-- programa 7 
+## Practica 1
+- _P10_HipotenusaDeUnTriangulo
+- _p11_CalcularAngulo
+- _p12_ConvertirTemperatura
+- _p13_VolumenCilindro
+- _p14_CalculoTiempo
+- _p15_ConvertirADolares
