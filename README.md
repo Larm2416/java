@@ -18,9 +18,16 @@
 - _p09_DividirEnCifras
 
 ## Practica 1
-- _P10_HipotenusaDeUnTriangulo
+- _p10_HipotenusaDeUnTriangulo
 - _p11_CalcularAngulo
 - _p12_ConvertirTemperatura
 - _p13_VolumenCilindro
 - _p14_CalculoTiempo
 - _p15_ConvertirADolares
+
+## Actividad 3
+- _p16_trabajando_enteros
+- _p17_TrabajandoFlotantes
+- _p18_TrabajandoConstantes
+- _p19_trabajando_caracter
+- _p20_ConversionTipos
