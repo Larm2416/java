@@ -49,3 +49,11 @@
 -  _p30_DiaSemana
 -  _p31_NumerosRomanos
 -  _p32_PagoEstacionamiento
+
+## Practica 2 
+- _p33_numeros_consecutivos
+- _p34_numero_mayor
+- _p35_continentes_mundo
+- _p36_compra_pizza
+- _p37_calculo_notas
+- _p38_aceptar_estudiante_v2
