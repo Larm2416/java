@@ -10,16 +10,17 @@ public class _p80_PrimerExamenParcial {
         String nombre,sexo,tparticipante;
         char resp;
         Scanner obj = new Scanner(System.in);
-        
+        obj.nextLine();
         do{ 
             do{
         System.out.println("ingresa tu nombre: "); nombre = obj.nextLine();
         System.out.println("ingresa tu edad: ");
         edad = obj.nextInt();
         System.out.println("ingresa tu sexo: ");
-        System.out.println("Tipo de sexo\n[H]\n[M] ");
+        sexo=obj.nextLine();
+        System.out.println("tipo sexo [H]/[M] ");
         sexo = obj.nextLine();
-        System.out.print("Qué tipo de participante\n[A]lumno\n[D]ocente\n[T]rabajador\n");
+        System.out.print("Qué tipo de participante [A]lumno [D]ocente [T]rabajador\n");
         tparticipante = obj.nextLine();
 
         if (edad >=18 && (sexo.equalsIgnoreCase("M") || sexo.equalsIgnoreCase("H"))&&(tparticipante.equalsIgnoreCase("A") || tparticipante.equalsIgnoreCase("D")||tparticipante.equalsIgnoreCase("T"))){
