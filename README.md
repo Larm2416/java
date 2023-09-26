@@ -126,3 +126,11 @@
 - _p79_Angulo
 
 - _p80_PrimerExamenParcial
+
+## Actividad 13
+
+- _p81_InicializaArregloNumeros
+- _p82_InicializaArregloCadenas
+- _p83_InicializaNombresEdades
+- _p84_LeerArregloCalificaciones
+- _p85_NombresEdades
