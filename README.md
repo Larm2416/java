@@ -142,3 +142,9 @@
 - _p88_Aleatorios
 - _p89_ArregloAleatorios
 
+## Practica 6
+
+- _p90_Temperaturas
+- _p91_MayoresPromedio
+- _p92_MayorMenor
+- _p93_ParesImpares 
