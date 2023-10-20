@@ -1,0 +1,49 @@
+package _p112_ControlVentas;
+
+public abstract class Venta {
+    private String Articulo;
+    private  double Cantidad;
+    private double Precio;
+    protected double Total;
+
+    public Venta(String articulo, double cantidad, double precio) {
+        Articulo = articulo;
+        Cantidad = cantidad;
+        Precio = precio;
+        Total = Precio * Cantidad;
+    }
+
+    public String getArticulo() {
+        return Articulo;
+    }
+
+    public void setArticulo(String articulo) {
+        Articulo = articulo;
+    }
+
+    public  double getCantidad() {
+        return Cantidad;
+    }
+
+    public void setCantidad(double cantidad) {
+        Cantidad = cantidad;
+    }
+
+    public double getPrecio() {
+        return Precio;
+    }
+
+    public void setPrecio(double precio) {
+        Precio = precio;
+    }
+
+    public abstract double getTotalVenta();
+
+    @Override
+    public String toString() {
+        return "Venta [Articulo=" + Articulo + ", Cantidad=" + Cantidad + ", Precio=" + Precio + "Total= " + Total + "]";
+    }
+
+  
+
+}
