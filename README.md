@@ -193,3 +193,7 @@
 ## Practica 10
 
 - _p112_ControlVentas
+
+## Examen parcial 2
+
+- _p113_SegundoExamenParcial
