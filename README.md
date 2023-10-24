@@ -197,3 +197,10 @@
 ## Examen parcial 2
 
 - _p113_SegundoExamenParcial
+
+## Actividad 20
+
+- _p114_Animal
+- _p115_Telefono
+- _p116_Juego
+- _p117_FiguraGeometric
