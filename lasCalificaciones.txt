@@ -1,0 +1,6 @@
+Algebra
+Calculo integral
+Analisis y dise¤o de algoritmos orientado a objetos
+Matematicas discretas 
+Programacion orientada a objetos 
+Linux 
