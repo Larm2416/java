@@ -255,3 +255,7 @@
 
 - _p142_PagaTrabjador
 - _p143_Temperaturas
+
+## Actividad 25
+
+- _p145_HolaMundoGUI_V1
