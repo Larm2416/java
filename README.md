@@ -263,3 +263,7 @@
 ## Actividad 26
 
 - _p146_HolaMundoGUI_V2
+
+## Tercer Examen parcial 
+
+- _p147_TercerExamenParcial
