@@ -259,3 +259,7 @@
 ## Actividad 25
 
 - _p145_HolaMundoGUI_V1
+
+## Actividad 26
+
+- _p146_HolaMundoGUI_V2
